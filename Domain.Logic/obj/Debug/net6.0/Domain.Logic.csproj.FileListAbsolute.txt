@@ -1,0 +1,17 @@
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\bin\Debug\net6.0\Domain.Logic.deps.json
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\bin\Debug\net6.0\Domain.Logic.dll
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\bin\Debug\net6.0\Domain.Logic.pdb
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\bin\Debug\net6.0\DataAccess.Entities.dll
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\bin\Debug\net6.0\DataAccess.SQLServer.dll
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\bin\Debug\net6.0\DataAccess.SQLServer.pdb
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\bin\Debug\net6.0\DataAccess.Entities.pdb
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\obj\Debug\net6.0\Domain.Logic.csproj.AssemblyReference.cache
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\obj\Debug\net6.0\Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\obj\Debug\net6.0\Domain.Logic.AssemblyInfoInputs.cache
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\obj\Debug\net6.0\Domain.Logic.AssemblyInfo.cs
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\obj\Debug\net6.0\Domain.Logic.csproj.CoreCompileInputs.cache
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\obj\Debug\net6.0\Domain.Logic.csproj.CopyComplete
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\obj\Debug\net6.0\Domain.Logic.dll
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\obj\Debug\net6.0\refint\Domain.Logic.dll
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\obj\Debug\net6.0\Domain.Logic.pdb
+C:\Users\denku\source\repos\TespAppForKEPT\Domain.Logic\obj\Debug\net6.0\ref\Domain.Logic.dll
